@@ -1,14 +1,14 @@
 //
-//  TestProjectTests.swift
-//  TestProjectTests
+//  TestWorkTests.swift
+//  TestWorkTests
 //
-//  Created by Natalie Mikheeva on 04.05.2023.
+//  Created by Natalie Mikheeva on 02.08.2023.
 //
 
 import XCTest
-@testable import TestProject
+@testable import TestWork
 
-final class TestProjectTests: XCTestCase {
+final class TestWorkTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
